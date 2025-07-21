@@ -20,7 +20,7 @@ export default function Navbar() {
         aria-label="Primary Navigation"
       >
         <a
-          href="#"
+          href="/"
           onClick={() => scrollToSection("hero")}
           className="flex items-center"
         >
@@ -86,7 +86,7 @@ export default function Navbar() {
             }}
             className="py-2 md:py-0 px-4 md:px-1 text-gray-600 hover:text-gray-900 font-medium cursor-pointer border-b-2 border-transparent hover:border-blue-600 md:border-b-0 md:hover:border-b-2 transition"
           >
-            O mnie
+            About me
           </a>
           <a
             href="#project"
@@ -96,7 +96,7 @@ export default function Navbar() {
             }}
             className="py-2 md:py-0 px-4 md:px-1 text-gray-600 hover:text-gray-900 font-medium cursor-pointer border-b-2 border-transparent hover:border-blue-600 md:border-b-0 md:hover:border-b-2 transition"
           >
-            Projekty
+            Projects
           </a>
           <a
             href="#contact"
@@ -106,11 +106,12 @@ export default function Navbar() {
             }}
             className="py-2 md:py-0 px-4 md:px-1 text-gray-600 hover:text-gray-900 font-medium cursor-pointer border-b-2 border-transparent hover:border-blue-600 md:border-b-0 md:hover:border-b-2 transition"
           >
-            Kontakt
+            Contact
           </a>
 
           <a
-            href="#"
+            href="/Maciej_Wlosek_CV.pdf"
+            download="Maciej_Wlosek_CV.pdf"
             className="mt-3 md:mt-0 w-full md:w-auto whitespace-nowrap py-2 px-4 text-sm font-medium rounded-full border border-transparent bg-gray-800 text-white hover:bg-gray-900 focus:outline-none focus:bg-blue-700"
           >
             CV

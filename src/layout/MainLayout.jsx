@@ -7,7 +7,7 @@ import Contact from "../components/Contact";
 import Hero from "../components/Hero";
 export default function MainLayout() {
   return (
-    <>
+    <div className="flex flex-col min-h-screen">
       <Navbar />
       <main>
         <section id="hero">
@@ -21,6 +21,6 @@ export default function MainLayout() {
         </section>
       </main>
       <Footer />
-    </>
+    </div>
   );
 }
