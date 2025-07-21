@@ -1,4 +1,3 @@
-import React from "react";
 import { SiGithub, SiLinkedin } from "react-icons/si";
 
 export default function Contact() {
