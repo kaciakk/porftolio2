@@ -4,7 +4,7 @@ This is a personal portfolio website built with **React** and **Tailwind CSS**. 
 
 ## 🔗 Live Demo
 
-👉 [Visit the site](https://your-live-link.vercel.app](https://maciejwlosek.pl/))
+👉 [Visit the site](https://maciejwlosek.pl/)
 
 ## 📸 Screenshots
 <img width="1881" height="938" alt="portfolio" src="https://github.com/user-attachments/assets/cb502978-d7ee-4f9d-81c9-c14e8489cde0" />
