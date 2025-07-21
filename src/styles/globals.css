@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@plugin "tailwindcss-motion";
+@plugin "tailwindcss-intersect";
+
+html {
+  scroll-behavior: smooth;
+}
